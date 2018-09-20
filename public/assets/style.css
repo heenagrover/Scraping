@@ -1,0 +1,45 @@
+.demo-layout-transparent {
+    background: url('./News.png ') center / contain;
+    min-height: 100;
+    margin-left: 55px;
+    margin-right: 35px;
+  }
+.mdl-layout__header, .mdl-layout__drawer-button {
+    color: black;
+  }
+
+  
+  .wide-card.mdl-card {
+    width: 512px;
+ }
+
+ .material-icons.grey{
+     color:black;
+ }
+
+ .mdl-textfield {
+     width:90%
+ }
+
+ .article_posts{
+     margin-left:7%
+ }
+
+ 
+.comments{
+    display:none;
+}
+
+.comments{
+    max-height:60%;
+    overflow:auto;
+}
+
+
+.comment-action {
+    float:right;
+  }
+
+.comment-body{
+    float:left;
+}
